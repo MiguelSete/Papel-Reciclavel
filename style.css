@@ -1,0 +1,19 @@
+
+body{
+    background-color: bisque;
+
+}
+
+.cabecalho-titulo{
+    font-size: 36px;
+    font-weight: 700;
+    padding: 12px;
+    text-align: center;
+    }
+
+.cabecalho{
+    color:rgb(165, 101, 42);
+    background-color: (165, 101, 42);
+}
+
+
