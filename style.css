@@ -1,3 +1,7 @@
+*{
+    margin: 0%   ;
+    padding: 0;
+}
 
 body{
     background-color: bisque;
@@ -5,15 +9,21 @@ body{
 }
 
 .cabecalho-titulo{
-    font-size: 36px;
+    
+    font-size: 60px;
     font-weight: 700;
-    padding: 12px;
+    padding: 30px;
     text-align: center;
     }
 
 .cabecalho{
     color:rgb(165, 101, 42);
-    background-color: (165, 101, 42);
+    background-color: antiquewhite;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Dancing Script', cursive;
 }
 
 
