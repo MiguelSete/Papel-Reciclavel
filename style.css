@@ -26,4 +26,17 @@ body{
     font-family: 'Dancing Script', cursive;
 }
 
+.principal{
+    display: flex;
 
+}
+
+
+.principal img {
+    width: 50%;
+
+}
+
+.principal p{
+    width: 50%;
+}
